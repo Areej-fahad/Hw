@@ -39,11 +39,13 @@ function isopration(opration) {
             return true;
     }
 }
+//Q2
 function isitnumber(str) {
     var mabynum = parseInt(str);
     var isnum = !isNaN(mabynum);
     return isnum;
 }
+
 var Frind1 = {
     name: "Areej",
     age: 29,
